@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+
+output/
+sample_output/
+
+.DS_Store
+*.swp
+*.swo
+
+.~lock.*

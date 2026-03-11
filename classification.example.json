@@ -1,0 +1,20 @@
+{
+  "business_keywords": [
+    "client",
+    "office",
+    "warehouse",
+    "job site",
+    "headquarters"
+  ],
+  "personal_keywords": [
+    "grocery",
+    "gym",
+    "church",
+    "restaurant",
+    "park"
+  ],
+  "home_keywords": [
+    "123 main st",
+    "home"
+  ]
+}
